@@ -1,0 +1,5 @@
+C:\Users\Dharmesh\source\repos\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Entities.dll
+C:\Users\Dharmesh\source\repos\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.csprojAssemblyReference.cache
+C:\Users\Dharmesh\source\repos\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharmesh\source\repos\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.AssemblyInfoInputs.cache
+C:\Users\Dharmesh\source\repos\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.AssemblyInfo.cs
